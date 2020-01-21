@@ -1,4 +1,4 @@
-# Exploring-notMNIST-Dataset
+# Exploring notMNIST Dataset
 The data-set has been used to learn different ML and NN models and classifiers.<br>
 
 If you want to kickstart in the same, following is the link for the same.<br>
